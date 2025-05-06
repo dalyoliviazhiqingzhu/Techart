@@ -1,4 +1,4 @@
-# Techart
+# how to use
 Portfolio for techart application
 How to use:
 1.To preview the simple version of bridge, tick the 'simple',don't tick'simple', 'sim' and 'preview Aftersimed' (toggle in the Sim and export)at the same time.
